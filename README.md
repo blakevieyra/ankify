@@ -1,4 +1,5 @@
-##Anki Deck Generator from PowerPoint
+**Anki Deck Generator from PowerPoint**
+---
 The **Anki Deck Generator** is a Python-based GUI application that helps users convert PowerPoint presentations into Anki flashcards. This tool automates the process of creating flashcards by extracting content from slides and using OpenAI's GPT-3.5-turbo model to generate meaningful questions and answers.
 Features
 - PowerPoint Integration: Load `.pptx` files to extract slide content.
