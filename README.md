@@ -31,9 +31,7 @@ python anki_deck_generator.py
 1. Save the Deck: Once the deck is generated, choose a location to save the `.apkg` file.
 1. Import to Anki: Open Anki and import the saved `.apkg` file to access your new flashcards.
 ---
-Screenshot
-*(Add a screenshot of the application window here.)*
----
+
 Known Limitations
 - Slide Content: Relies on clear and structured text in slides for effective flashcard generation.
 - AI Accuracy: The quality of generated flashcards depends on the clarity and relevance of the slide content.
